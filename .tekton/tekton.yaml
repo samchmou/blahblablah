@@ -1,0 +1,6 @@
+---
+tasks:
+  - git-clone
+
+owners:
+  - "@openshift-pipelines"
